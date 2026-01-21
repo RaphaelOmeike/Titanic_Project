@@ -1,0 +1,6 @@
+Name: Omeike Raphael
+Matric Number: 22CG031930
+Machine Learning Algorithm Used: Random Forest Classifier
+Model persistence method used: Joblib
+Live URL: https://titanic-survival-prediction-22cg031930.streamlit.app/
+GitHub Repository: https://github.com/ro-meike/Titanic_Project_Omeike_22CG031930
